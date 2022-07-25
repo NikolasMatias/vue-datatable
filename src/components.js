@@ -1,3 +1,3 @@
-import VDataTable from "./VDataTable.vue";
+import VDatatable from "./VDatatable.vue";
 
-export default { VDataTable };
+export default { VDatatable };

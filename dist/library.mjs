@@ -1,10 +1,10 @@
 var script = {
-    name: 'VDataTable'
+    name: 'VDatatable'
   };
 
-script.__file = "src/VDataTable.vue";
+script.__file = "src/VDatatable.vue";
 
-var components = { VDataTable: script };
+var components = { VDatatable: script };
 
 const plugin = {
     install (Vue) {
