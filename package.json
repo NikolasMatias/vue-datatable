@@ -1,0 +1,34 @@
+{
+  "name": "@nikolasmatias/vue-datatable",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/library.js",
+  "module": "dist/library.mjs",
+  "files": [
+    "dist/*",
+    "src/*"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolasMatias/vue-datatable.git"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.21"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolasMatias/vue-datatable/issues"
+  },
+  "homepage": "https://github.com/NikolasMatias/vue-datatable#readme",
+  "devDependencies": {
+    "rollup": "^2.77.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-vue": "^6.0.0"
+  }
+}
