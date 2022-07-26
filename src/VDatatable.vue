@@ -1,5 +1,5 @@
 <tamplate>
-  <table>teste</table>
+  <h1>teste</h1>
 </tamplate>
 
 <script>
